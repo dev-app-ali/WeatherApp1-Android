@@ -10,6 +10,8 @@
 
 ![screenshot-2024-06-10_14 46 55 528](https://github.com/dev-app-ali/WeatherApp1-Android/assets/121374194/d002f004-02f0-4a02-a6af-9b7be953e652)
 
+<img src= "https://github.com/dev-app-ali/WeatherApp1-Android/assets/121374194/d002f004-02f0-4a02-a6af-9b7be953e652" width= "300">
+
 
 <hr>
 <br>
