@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.MySplashScreen" parent="android:Theme.Material.Light.NoActionBar">
+ <item name="windowSplashScreenAnimatedIcon">@drawable/splashscreen</item>
+ <item name="windowSplashScreenBackground">@color/white</item>
+ <item name="postSplashScreenTheme">@style/Theme.WeatherAPP</item>
+
+    </style>
+
+
+
+    <style name="Theme.WeatherAPP" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
